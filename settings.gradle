@@ -1,0 +1,3 @@
+include ':pcamera'
+include ':app'
+rootProject.name = "PCamera"

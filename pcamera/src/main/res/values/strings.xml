@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_facing_change">切换摄像头</string>
+    <string name="text_return">返回</string>
+    <string name="text_capture_tips">轻触拍照，长按录像</string>
+</resources>
